@@ -24,12 +24,12 @@
 
 ---
 
-### 🧠 About Me
+<h2 align="center" style="color:#00cfff;">🧠 About Me
 I'm a Full-Stack Developer with a strong focus on backend development and data manipulation. I specialize in building scalable APIs, managing databases efficiently, and integrating modern tools to deliver robust solutions.
 
 ---
 
-###  Main Technologies
+<h2 align="center" style="color:#00cfff;">Main Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"/>
@@ -38,7 +38,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-### 🛠️ Tools 
+<h2 align="center" style="color:#00cfff;">🛠️ Tools 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
@@ -50,7 +50,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-### 📚 Other Knowledge
+<h2 align="center" style="color:#00cfff;">📚 Other Knowledge
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
@@ -62,7 +62,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-<h2 align="center" style="color:#00cfff;"> 📖 Currently Learning
+<h2 align="center" style="color:#00cfff;">📖 Currently Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
