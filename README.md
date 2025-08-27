@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00cfff&height=120&section=header&font=monospace"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00cfff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00cfff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+César+Barros;Full-Stack+Developer+from+Brazil;Specialized+in+Backend+and+Data+Handling;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
@@ -8,6 +8,8 @@
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CVbarro&bg_color=2c2c2c&color=00cfff&line=00cfff&point=00cfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <div align="center"> 
   <a href="https://www.instagram.com/ounicocesar/" target="_blank">
@@ -23,13 +25,12 @@
 
 ---
 
-<h2 align="center" style="color:#00cfff;">🧠 About Me</h2>
-
-<p align="center"><code>I'm a Full-Stack Developer with a strong focus on backend development and data manipulation. I specialize in building scalable APIs, managing databases efficiently, and integrating modern tools to deliver robust solutions.</code></p>
+## 🧠 About Me
+I'm a Full-Stack Developer with a strong focus on backend development and data manipulation. I specialize in building scalable APIs, managing databases efficiently, and integrating modern tools to deliver robust solutions.
 
 ---
 
-<h2 align="center" style="color:#00cfff;">🚀 Main Technologies</h2>
+## 🚀 Main Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"/>
@@ -38,7 +39,7 @@
 
 ---
 
-<h2 align="center" style="color:#00cfff;">🛠️ Tools</h2>
+## 🛠️ Tools I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
@@ -50,7 +51,7 @@
 
 ---
 
-<h2 align="center" style="color:#00cfff;">📚 Other Knowledge</h2>
+## 📚 Other Knowledge
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
@@ -62,7 +63,7 @@
 
 ---
 
-[![Currently Learning](https://readme-typing-svg.herokuapp.com?font=monospace&color=00cfff&size=25&center=true&vCenter=true&width=500&lines=📖+Currently+Learning)](https://git.io/typing-svg)
+## 📖 Currently Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
@@ -70,10 +71,13 @@
 
 ---
 
-<h2 align="center" style="color:#00cfff;">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg" />
-</p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00cfff&height=120&section=footer"/>
+
