@@ -62,7 +62,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-<h2 align="center" style="color:#00cfff;">📖 Currently Learning
+![Currently Learning](https://readme-typing-svg.herokuapp.com?font=monospace&color=00cfff&size=25&center=true&vCenter=true&width=500&lines=📖+Currently+Learning)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
