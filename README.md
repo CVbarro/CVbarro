@@ -9,9 +9,6 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CVbarro&bg_color=2c2c2c&color=00cfff&line=00cfff&point=00cfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CVbarro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center"> 
   <a href="https://www.instagram.com/ounicocesar/" target="_blank">
