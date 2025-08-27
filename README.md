@@ -62,7 +62,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-### 📖 Currently Learning
+<h2 align="center" style="color:#00cfff;"> 📖 Currently Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
