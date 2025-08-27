@@ -73,32 +73,12 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 
 
-### 🧾 Certifications
-
+🧾 Certifications
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <a href="https://cursos.alura.com.br/user/cesarvianabarros/degree-linguagem-python-698571/certificate?lang=en" target="_blank">
-          <img src="https://via.placeholder.com/300x180.png?text=Certificate+1" alt="Certificate 1" width="100%"/>
-        </a>
-        <br>
-        <code><strong>Back-End Development with Java</strong></code><br>
-        <sub>Issued by: Alura</sub><br>
-        <sub>Completed: July 2025</sub>
-      </td>
-      <td align="center" width="400">
-        <a href="https://cursos.alura.com.br/user/cesarvianabarros/degree-java-568827/certificate?lang=en" target="_blank">
-          <img src="https://via.placeholder.com/300x180.png?text=Certificate+2" alt="Certificate 2" width="100%"/>
-        </a>
-        <br>
-        <code><strong>Docker & Deployment Essentials</strong></code><br>
-        <sub>Issued by: Udemy</sub><br>
-        <sub>Completed: May 2025</sub>
-      </td>
-    </tr>
-  </table>
+<table> <tr> <td align="center" valign="top" width="45%"> <a href="https://cursos.alura.com.br/user/cesarvianabarros/degree-linguagem-python-698571/certificate?lang=en" target="_blank"> <img src="https://via.placeholder.com/300x180.png?text=Back-End+Java+Certificate" alt="Back-End Java Certificate" width="100%" /> </a> <br><br> <code><strong>Back-End Development with Java</strong></code><br> <sub>Issued by: Alura</sub><br> <sub>Completed: July 2025</sub> </td>
+
+<td align="center" valign="top" width="45%"> <a href="https://cursos.alura.com.br/user/cesarvianabarros/degree-java-568827/certificate?lang=en" target="_blank"> <img src="https://via.placeholder.com/300x180.png?text=Docker+Essentials+Certificate" alt="Docker Essentials Certificate" width="100%" /> </a> <br><br> <code><strong>Docker & Deployment Essentials</strong></code><br> <sub>Issued by: Udemy</sub><br> <sub>Completed: May 2025</sub> </td> </tr> </table>
 
 </div>
 
