@@ -1,32 +1,54 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00cfff&height=120&section=header&text=César%20Barros&fontColor=ffffff&fontSize=40&font=monospace"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00cfff&size=30&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Specialized+in+Backend+and+Data+Engineering;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=00cfff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+César+Barros;Full-Stack+Developer+from+Brazil;Specialized+in+Backend+and+Data+Handling;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
----
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CVbarro&show_icons=true&count_private=true&hide_border=true&title_color=00cfff&icon_color=00cfff&text_color=00cfff&bg_color=2c2c2c" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVbarro&layout=compact&hide_border=true&title_color=00cfff&text_color=00cfff&bg_color=2c2c2c" alt="Top Languages" />
+</div>
 
-## 💼 About Me
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CVbarro&bg_color=2c2c2c&color=00cfff&line=00cfff&point=00cfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-I'm a Full-Stack Developer from Brazil, focused on backend architecture and data manipulation. I build scalable APIs, integrate modern tools, and deliver clean, efficient solutions.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CVbarro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
----
-
-## 🚀 Core Technologies
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<div align="center"> 
+  <a href="https://www.instagram.com/ounicocesar/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:cesarvianabarros@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 ---
 
-## ⚙️ Tools I Use
+## 🧠 About Me
+I'm a Full-Stack Developer with a strong focus on backend development and data manipulation. I specialize in building scalable APIs, managing databases efficiently, and integrating modern tools to deliver robust solutions.
+
+---
+
+## 🚀 Main Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+</div>
+
+---
+
+## 🛠️ Tools I Use
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
 </div>
 
 ---
@@ -34,11 +56,11 @@ I'm a Full-Stack Developer from Brazil, focused on backend architecture and data
 ## 📚 Other Knowledge
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="60"/>
 </div>
 
 ---
@@ -46,34 +68,17 @@ I'm a Full-Stack Developer from Brazil, focused on backend architecture and data
 ## 📖 Currently Learning
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CVbarro&show_icons=true&hide_border=true&title_color=00cfff&icon_color=00cfff&text_color=00cfff&bg_color=2c2c2c" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVbarro&layout=compact&hide_border=true&title_color=00cfff&text_color=00cfff&bg_color=2c2c2c" width="48%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📬 Contact
-
-<div align="center">
-  <a href="https://www.instagram.com/ounicocesar/" target="_blank">Instagram</a> • 
-  <a href="mailto:cesarvianabarros@gmail.com" target="_blank">Gmail</a> • 
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">LinkedIn</a>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00cfff&height=120&section=footer"/>
