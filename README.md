@@ -24,12 +24,12 @@
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 I'm a Full-Stack Developer with a strong focus on backend development and data manipulation. I specialize in building scalable APIs, managing databases efficiently, and integrating modern tools to deliver robust solutions.
 
 ---
 
-## 🚀 Main Technologies
+###  Main Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"/>
@@ -38,7 +38,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-## 🛠️ Tools I Use
+### 🛠️ Tools 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60"/>
@@ -50,7 +50,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-## 📚 Other Knowledge
+### 📚 Other Knowledge
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
@@ -62,7 +62,7 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-## 📖 Currently Learning
+### 📖 Currently Learning
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
@@ -70,7 +70,6 @@ I'm a Full-Stack Developer with a strong focus on backend development and data m
 
 ---
 
-## 🐍 Contribution Snake
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg">
