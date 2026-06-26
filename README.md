@@ -27,40 +27,93 @@
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%"/>
 </div>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 <br/>
 
-- 🔧 Building **scalable REST APIs** with Java & Spring Boot
-- 🐳 Containerizing everything with **Docker**
-- 🗄️ Architecting **MySQL** schemas for high-load systems
-- 🌱 Currently diving into **C++**
-- 🤝 Open to **freelance** and **collaborations**
-- 📍 Based in **Brazil** 🇧🇷
+<div align="center">
 
-<br/><br/><br/><br/>
-<br clear="right"/>
+```console
+> BOOTING CYBERDECK...
+
+  [ OK ] Neural Link
+  [ OK ] Memory Core
+  [ OK ] Network Interface
+  [ OK ] Development Environment
+
+> LOADING NETRUNNER PROFILE...
+
+  USER     :  César Barros
+  CLASS    :  Backend Engineer
+  LOCATION :  Brazil 🇧🇷
+  FOCUS    :  Scalable APIs · Distributed Systems · Databases
+  STATUS   :  ONLINE ◉
+
+> ACCESS GRANTED. Welcome back, CVBARRO.
+```
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%"/>
 </div>
 
+<br/>
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```
+▓▒░ INSTALLED CYBERWARE ░▒▓
+
+  CORE SYSTEMS
+  ◉ Java          ◉ Spring Boot
+  ◉ Python        ◉ MySQL
+
+  NETWORK MODULES
+  ◉ REST APIs     ◉ Docker
+  ◉ Git
+
+  EXPERIMENTAL
+  ◉ Go            ◉ Kotlin
+  ◉ JavaScript    ◉ C++
+```
+
+<br/><br/><br/>
+<br clear="right"/>
+
 <div align="center">
 
 | | Stack |
 |:---|:---|
-| **⚡ Languages** | ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=e63946) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ffd700) ![JavaScript](https://img.shields.io/badge/JS-0a0a0a?style=flat-square&logo=javascript&logoColor=ffd700) ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=e63946) ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=e0e0e0) |
-| **🔩 Backend** | ![Spring](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=e63946) ![REST](https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=fastapi&logoColor=ffd700) |
-| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=e63946) |
-| **🐳 DevOps** | ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ffd700) ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=e63946) |
-| **🖥️ Frontend** | ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=e0e0e0) ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=e63946) ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=ffd700) |
-| **📡 Learning** | ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=e0e0e0) |
+| **CORE SYSTEMS** | ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=e63946) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ffd700) ![Spring](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=e63946) ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=ffd700) |
+| **NETWORK MODULES** | ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ffd700) ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=e63946) ![REST](https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=fastapi&logoColor=ffd700) |
+| **EXPERIMENTAL** | ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=e0e0e0) ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=e63946) ![JS](https://img.shields.io/badge/JS-0a0a0a?style=flat-square&logo=javascript&logoColor=ffd700) ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=e0e0e0) |
+| **LEARNING** | ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=e0e0e0) |
 
 </div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
 </div>
+
+<br/>
+
+<div align="center">
+
+```
+▓▒░ ACTIVE CONTRACT ░▒▓
+
+  Building scalable REST APIs designed
+  to survive real-world traffic,
+  not tutorial traffic.
+
+  Open to freelance missions
+  and collaborative operations.
+```
+
+</div>
+
+<br/>
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CVbarro&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=e63946&icon_color=ffd700&text_color=e0e0e0&ring_color=e63946&rank_icon=github"/>
@@ -81,6 +134,20 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+> SYSTEM SHUTDOWN
+
+  See you in Night City.
+
+  ◈ CVBARRO — 2025 ◈
+```
+
 </div>
 
 <div align="center">
