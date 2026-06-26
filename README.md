@@ -1,61 +1,56 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,70:0a0a2e,100:00cfff&height=220&section=header&text=CÉSAR%20BARROS&fontSize=62&fontColor=00cfff&fontAlignY=55&desc=//_%20BACKEND_DEVELOPER_%20//%20API_ARCHITECT_%20//%20BRAZIL&descAlignY=74&descSize=13&animation=fadeIn&stroke=00cfff&strokeWidth=2"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0010,55:1a0030,85:0a0a2e,100:00cfff&height=260&section=header&text=CÉSAR%20BARROS&fontSize=72&fontColor=00cfff&fontAlignY=50&desc=◈%20BACKEND%20DEVELOPER%20◈%20API%20ARCHITECT%20◈%20BRAZIL%20🇧🇷%20◈&descAlignY=68&descSize=14&animation=fadeIn&stroke=7b00ff&strokeWidth=1.5"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing+dev+environment...;%3E+Loading+Java+%2B+Spring+Boot...;%3E+Connecting+to+MySQL+database...;%3E+Deploying+Docker+containers...;%3E+System+ready.+Let%27s+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Booting+CVbarro+v2.0...;%5BSYS%5D+Loading+modules%3A+Java+%E2%97%88+Spring+%E2%97%88+Docker+%E2%97%88+MySQL;%5BSYS%5D+Establishing+secure+connection...;%5BSYS%5D+Identity+verified.+Welcome%2C+choom.;%5BSYS%5D+All+systems+nominal.+Ready+to+build." />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00cfff&labelColor=0d0d0d&color=00cfff"/>
   </a>
   <a href="https://www.instagram.com/ounicocesar/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff00aa&labelColor=0d0d0d&color=ff00aa"/>
   </a>
   <a href="mailto:cesarvianabarros@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=7b00ff&labelColor=0d0d0d&color=7b00ff"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=CVbarro&style=for-the-badge&color=00cfff&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=CVbarro&style=for-the-badge&color=00cfff&labelColor=0d0d0d&label=VISITORS"/>
 </div>
 
----
+<br/>
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%"/>
+</div>
 
-### `> ABOUT_ME.exe`
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+```js
+const CESAR_BARROS = {
+  role     : "Backend Developer",
+  location : "Brazil 🇧🇷",
+  stack    : ["Java", "Spring Boot", "Python", "Docker", "MySQL"],
+  focus    : ["REST APIs", "System Design", "Databases"],
+  learning : "C++",
+  status   : "open_to_work → true",
+  contact  : "cesarvianabarros@gmail.com"
+};
 ```
-┌─────────────────────────────────────────┐
-│  NAME    : César Viana Barros           │
-│  ROLE    : Backend Developer            │
-│  LOC     : Brazil 🇧🇷                   │
-│  FOCUS   : APIs · Databases · Systems   │
-│  STATUS  : [OPEN TO WORK] ██████ 100%  │
-└─────────────────────────────────────────┘
-```
-
-- 🔧 Building **scalable REST APIs** with Java & Spring Boot
-- 🐳 Running all infra inside **Docker** containers
-- 🗄️ Designing **MySQL** database schemas daily
-- 🌱 Exploring **C++** and low-level programming
-- 🤝 Open to **freelance** and **collaboration**
-- 💬 Ask me about **backend architecture**
 
 <br clear="right"/>
 
----
-
-### `> TECH_STACK.json`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%"/>
+</div>
 
 <div align="center">
 
 | | Stack |
-|---|---|
+|:---|:---|
 | **⚡ Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **🔩 Backend** | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
@@ -65,44 +60,31 @@
 
 </div>
 
----
-
-### `> SYSTEM_METRICS.sh`
-
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=CVbarro&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=8b949e&ring_color=00cfff&rank_icon=github"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVbarro&layout=compact&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=8b949e&langs_count=8"/>
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CVbarro&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00cfff&ring=00cfff&fire=ff6e00&currStreakLabel=00cfff&sideLabels=8b949e&dates=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CVbarro&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00cfff&icon_color=7b00ff&text_color=8b949e&ring_color=00cfff&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVbarro&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00cfff&text_color=8b949e&langs_count=8"/>
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CVbarro&hide_border=true&background=0d0d0d&stroke=00cfff&ring=7b00ff&fire=ff00aa&currStreakLabel=00cfff&sideLabels=8b949e&dates=8b949e&sideNums=00cfff&currStreakNum=00cfff"/>
+</div>
 
-### `> COMMIT_SNAKE.py`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  "The best code is no code at all."  — Jeff Atwood           │
-│   >> César Barros — Backend Dev — Brazil 🇧🇷 — 2025         │
-└──────────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00cfff,50:0a0a2e,100:000000&height=120&section=footer&reversal=true"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00cfff,40:7b00ff,80:0d0010,100:000000&height=130&section=footer&reversal=true"/>
 </div>
