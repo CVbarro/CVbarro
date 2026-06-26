@@ -1,25 +1,24 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0000,65:3d0000,100:e63946&height=240&section=header&text=CÉSAR%20BARROS&fontSize=72&fontColor=e0e0e0&fontAlignY=52&desc=◈%20BACKEND%20DEVELOPER%20◈%20API%20ARCHITECT%20◈%20BRAZIL%20◈&descAlignY=70&descSize=13&animation=fadeIn&stroke=e63946&strokeWidth=2"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:1a0000,65:3d0000,100:e63946&height=220&section=header&text=CÉSAR%20BARROS&fontSize=72&fontColor=e0e0e0&fontAlignY=52&desc=◈%20BACKEND%20DEVELOPER%20◈%20API%20ARCHITECT%20◈%20BRAZIL%20◈&descAlignY=70&descSize=13&animation=fadeIn&stroke=e63946&strokeWidth=2"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2500&pause=800&color=e63946&center=true&vCenter=true&width=650&lines=SAMURAI%2C+HAVE+YOU+HEARD+THE+NEWS%3F;THE+WORLD+DOESN%27T+WANT+TO+BE+SAVED.;%E2%96%BA+Backend+Developer+%2F+API+Architect;%E2%96%BA+Java+%C2%B7+Spring+Boot+%C2%B7+Docker+%C2%B7+MySQL;%E2%96%BA+Building+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=16&duration=2500&pause=800&color=e63946&center=true&vCenter=true&width=650&lines=SAMURAI%2C+HAVE+YOU+HEARD+THE+NEWS%3F;THE+WORLD+DOESN%27T+WANT+TO+BE+SAVED.;%E2%96%BA+Backend+Developer+%2F%2F+API+Architect;%E2%96%BA+Java+%C2%B7+Spring+Boot+%C2%B7+Docker+%C2%B7+MySQL;%E2%96%BA+Building+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img src="https://img.shields.io/badge/LINKEDIN-e63946?style=for-the-badge&logo=linkedin&logoColor=0a0a0a"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="45"/>
   </a>
   <a href="https://www.instagram.com/ounicocesar/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ffd700?style=for-the-badge&logo=instagram&logoColor=0a0a0a"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45"/>
   </a>
   <a href="mailto:cesarvianabarros@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-e0e0e0?style=for-the-badge&logo=gmail&logoColor=0a0a0a"/>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="45"/>
   </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=CVbarro&style=for-the-badge&color=e63946&labelColor=0a0a0a&label=VISITORS"/>
 </div>
 
@@ -29,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%"/>
 </div>
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <br/>
 
@@ -40,9 +39,8 @@
 - 🤝 Open to **freelance** and **collaborations**
 - 📍 Based in **Brazil** 🇧🇷
 
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/>
+
 <br clear="right"/>
 
 <div align="center">
@@ -53,12 +51,12 @@
 
 | | Stack |
 |:---|:---|
-| **⚡ Languages** | ![Java](https://img.shields.io/badge/Java-e63946?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-ffd700?style=flat-square&logo=python&logoColor=0a0a0a) ![JavaScript](https://img.shields.io/badge/JS-e0e0e0?style=flat-square&logo=javascript&logoColor=0a0a0a) ![Kotlin](https://img.shields.io/badge/Kotlin-e63946?style=flat-square&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/Go-ffd700?style=flat-square&logo=go&logoColor=0a0a0a) |
-| **🔩 Backend** | ![Spring](https://img.shields.io/badge/Spring_Boot-e63946?style=flat-square&logo=springboot&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-ffd700?style=flat-square&logo=fastapi&logoColor=0a0a0a) |
-| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-e63946?style=flat-square&logo=mysql&logoColor=white) |
-| **🐳 DevOps** | ![Docker](https://img.shields.io/badge/Docker-ffd700?style=flat-square&logo=docker&logoColor=0a0a0a) ![Git](https://img.shields.io/badge/Git-e63946?style=flat-square&logo=git&logoColor=white) |
-| **🖥️ Frontend** | ![React](https://img.shields.io/badge/React-e0e0e0?style=flat-square&logo=react&logoColor=0a0a0a) ![HTML5](https://img.shields.io/badge/HTML5-e63946?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-ffd700?style=flat-square&logo=css3&logoColor=0a0a0a) |
-| **📡 Learning** | ![C++](https://img.shields.io/badge/C++-e0e0e0?style=flat-square&logo=c%2B%2B&logoColor=0a0a0a) |
+| **⚡ Languages** | ![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=e63946) ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ffd700) ![JavaScript](https://img.shields.io/badge/JS-0a0a0a?style=flat-square&logo=javascript&logoColor=ffd700) ![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=flat-square&logo=kotlin&logoColor=e63946) ![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=e0e0e0) |
+| **🔩 Backend** | ![Spring](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=e63946) ![REST](https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=fastapi&logoColor=ffd700) |
+| **🗄️ Database** | ![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=e63946) |
+| **🐳 DevOps** | ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ffd700) ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=e63946) |
+| **🖥️ Frontend** | ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=e0e0e0) ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=e63946) ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=ffd700) |
+| **📡 Learning** | ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=e0e0e0) |
 
 </div>
 
@@ -72,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CVbarro&hide_border=true&background=0a0a0a&stroke=e63946&ring=ffd700&fire=e63946&currStreakLabel=ffd700&sideLabels=e0e0e0&dates=666666&sideNums=e63946&currStreakNum=ffd700"/>
+  <img src="https://streak-stats.demolab.com?user=CVbarro&hide_border=true&background=0a0a0a&stroke=e63946&ring=ffd700&fire=e63946&currStreakLabel=ffd700&sideLabels=e0e0e0&dates=555555&sideNums=e63946&currStreakNum=ffd700"/>
 </div>
 
 <div align="center">
@@ -80,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="680"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </div>
 
 <div align="center">
