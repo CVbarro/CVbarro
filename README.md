@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CVbarro/CVbarro/main/docs/dividers/divider_gradient_flow.svg" width="100%"/>
 
 > Eu penso o software em torno de três perguntas: **o que quebra primeiro? como ele se recupera? quem vai manter isso daqui a 12 meses?**
 > Simplicidade é funcionalidade. Performance se mede, não se assume. Documentação acompanha o código.
@@ -69,7 +69,7 @@ Repositórios ativos, experimentos e APIs em construção.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CVbarro/CVbarro/main/docs/dividers/divider_pulse_line.svg" width="100%"/>
 
 ## 📊 Vital Statistics
 
@@ -85,7 +85,7 @@ Repositórios ativos, experimentos e APIs em construção.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/CVbarro/CVbarro/main/docs/dividers/divider_dual_track.svg" width="100%"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
