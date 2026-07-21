@@ -1,0 +1,19 @@
+<svg width="100%" height="90" viewBox="0 0 1536 90" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" font-family="Consolas, 'Courier New', monospace">
+  <rect width="1536" height="90" fill="#080B12" stroke="#12395A" stroke-width="1.5"/>
+  <line x1="700" y1="0" x2="700" y2="90" stroke="#12395A" stroke-width="1"/>
+
+  <text x="40" y="42" font-size="26" fill="#00D9FF">"</text>
+  <text x="70" y="40" font-size="14" fill="#D6DEE6">Code is like humor. When you have to explain it, it's bad.</text>
+  <text x="640" y="60" font-size="12" fill="#8FA3B8" text-anchor="end">- Cory House</text>
+
+  <g font-size="13">
+    <text x="730" y="50" fill="#3FB950">&gt; system.ready</text>
+    <text x="880" y="50" fill="#8FA3B8">|</text>
+    <text x="900" y="50" fill="#00D9FF">Thanks for visiting!</text>
+    <text x="1090" y="50" fill="#8FA3B8">|</text>
+    <text x="1110" y="50" fill="#D6DEE6">Let's build something great together.</text>
+  </g>
+  <rect x="1460" y="38" width="9" height="16" fill="#00D9FF">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="100%" height="330" viewBox="0 0 500 330" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" font-family="Consolas, 'Courier New', monospace">
+  <rect width="500" height="330" rx="6" fill="#0A1420" stroke="#12395A" stroke-width="1.5"/>
+  <text x="20" y="34" font-size="16" font-weight="bold" fill="#00D9FF">👤 ABOUT ME</text>
+  <line x1="20" y1="48" x2="480" y2="48" stroke="#12395A" stroke-width="1"/>
+
+  <text x="20" y="76" font-size="13" fill="#3FB950">&gt; whoami</text>
+  <text x="20" y="100" font-size="13" fill="#B9C6D4">
+    <tspan x="20" dy="0">Backend engineer com foco em sistemas que</tspan>
+    <tspan x="20" dy="18">precisam continuar funcionando sob pressão real.</tspan>
+    <tspan x="20" dy="18">Gosto de resolver problemas de arquitetura,</tspan>
+    <tspan x="20" dy="18">automatizar processos e entregar soluções</tspan>
+    <tspan x="20" dy="18">confiáveis que escalam.</tspan>
+  </text>
+
+  <text x="20" y="222" font-size="13" fill="#3FB950">&gt; currently</text>
+  <g font-size="13" fill="#D6DEE6">
+    <text x="30" y="246">» Construindo APIs escaláveis</text>
+    <text x="30" y="268">» Explorando microsserviços</text>
+    <text x="30" y="290">» Aprendendo Kotlin &amp; Go</text>
+    <text x="30" y="312">» Aprofundando em DevOps</text>
+  </g>
+</svg>

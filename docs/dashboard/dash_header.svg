@@ -1,0 +1,68 @@
+<svg width="100%" height="300" viewBox="0 0 1536 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" font-family="Consolas, 'Courier New', monospace">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="hexFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1B2A"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1536" height="300" fill="#080B12"/>
+  <rect x="1" y="1" width="1534" height="298" fill="none" stroke="#12395A" stroke-width="1.5"/>
+
+  <!-- top status strip -->
+  <text x="24" y="30" font-size="13" fill="#5CC9F5">&gt; INITIALIZING PROFILE.README ...</text>
+  <g transform="translate(1250,14)">
+    <g fill="#FCEE0A">
+      <rect x="0" y="0" width="10" height="16" transform="skewX(-20)"/>
+      <rect x="16" y="0" width="10" height="16" transform="skewX(-20)"/>
+      <rect x="32" y="0" width="10" height="16" transform="skewX(-20)"/>
+      <rect x="48" y="0" width="10" height="16" transform="skewX(-20)"/>
+      <rect x="64" y="0" width="10" height="16" transform="skewX(-20)"/>
+    </g>
+    <text x="105" y="14" font-size="12" fill="#5CC9F5">//&gt;</text>
+  </g>
+  <line x1="0" y1="42" x2="1536" y2="42" stroke="#12395A" stroke-width="1"/>
+
+  <!-- hex avatar -->
+  <g transform="translate(140,155)" filter="url(#glow)">
+    <polygon points="0,-78 68,-39 68,39 0,78 -68,39 -68,-39" fill="url(#hexFill)" stroke="#00D9FF" stroke-width="2.5"/>
+    <text x="0" y="16" text-anchor="middle" font-size="42" font-weight="bold" fill="#00D9FF">CB</text>
+  </g>
+
+  <!-- name and title -->
+  <text x="262" y="120" font-size="52" font-weight="bold" fill="#F5F7FA">CÉSAR <tspan fill="#00D9FF" filter="url(#glow)">BARROS</tspan></text>
+  <text x="262" y="158" font-size="20" font-weight="bold" fill="#00D9FF" letter-spacing="1">BACKEND ENGINEER · API ARCHITECT · BRAZIL</text>
+  <text x="262" y="192" font-size="15" fill="#9FB3C8">Building scalable APIs and robust backend systems with clean architecture</text>
+  <text x="262" y="212" font-size="15" fill="#9FB3C8">and a focus on performance, security and developer experience.</text>
+
+  <!-- contact row -->
+  <g font-size="14" fill="#B9C6D4">
+    <text x="262" y="252">📍 Brazil</text>
+    <text x="420" y="252">✉ cesarbarros.dev</text>
+    <text x="620" y="252">🔗 github.com/CVbarro</text>
+  </g>
+
+  <!-- system status panel -->
+  <g transform="translate(1000,20)">
+    <rect width="500" height="228" rx="6" fill="#0A1420" stroke="#12395A" stroke-width="1.5"/>
+    <text x="20" y="30" font-size="15" font-weight="bold" fill="#00D9FF">SYSTEM STATUS</text>
+    <circle cx="470" cy="24" r="2" fill="#5CC9F5"/>
+    <circle cx="478" cy="24" r="2" fill="#5CC9F5"/>
+    <circle cx="486" cy="24" r="2" fill="#5CC9F5"/>
+
+    <g font-size="13" fill="#B9C6D4">
+      <text x="20" y="60">STATUS</text><text x="140" y="60" fill="#3FB950">: ONLINE</text>
+      <text x="20" y="84">FOCUS</text><text x="140" y="84" fill="#F5F7FA">: BACKEND &amp; APIS</text>
+      <text x="20" y="108">LANGUAGE</text><text x="140" y="108" fill="#F5F7FA">: JAVA / PYTHON</text>
+      <text x="20" y="132">ARCHITECTURE</text><text x="140" y="132" fill="#F5F7FA">: CLEAN / DDD</text>
+      <text x="20" y="156">DATABASE</text><text x="140" y="156" fill="#F5F7FA">: MYSQL</text>
+      <text x="20" y="180">LOCATION</text><text x="140" y="180" fill="#F5F7FA">: BRAZIL</text>
+    </g>
+    <line x1="20" y1="196" x2="480" y2="196" stroke="#12395A" stroke-width="1"/>
+    <text x="20" y="216" font-size="13" fill="#00D9FF">&gt; READY TO BUILD AMAZING THINGS</text>
+  </g>
+</svg>
