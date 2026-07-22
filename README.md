@@ -9,11 +9,10 @@
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/main/docs/dashboard/dash_title_tech.svg" width="100%"/>
-<br/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="65%">
 
@@ -57,22 +56,24 @@ Repositórios ativos, experimentos e APIs em construção.
 
 **[Ver todos →](https://github.com/CVbarro?tab=repositories)**
 
-<br/>
-
 `systems` · `apis` · `experiments`
 
 </td>
 </tr>
 </table>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&icon_color=00D9FF" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&chart_color=00D9FF" width="100%"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVbarro&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CVbarro&theme=github_dark" width="48%"/>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/CVbarro/CVbarro/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
