@@ -1,47 +1,34 @@
-<svg width="100%" height="330" viewBox="0 0 500 330" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" font-family="Consolas, 'Courier New', monospace">
+<svg width="500" height="330" viewBox="0 0 500 330" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" font-family="Consolas, 'Courier New', monospace">
   <rect width="500" height="330" rx="6" fill="#0A1420" stroke="#12395A" stroke-width="1.5"/>
   <text x="20" y="34" font-size="16" font-weight="bold" fill="#00D9FF">⚙ TECH STACK</text>
   <line x1="20" y1="48" x2="480" y2="48" stroke="#12395A" stroke-width="1"/>
 
   <text x="20" y="70" font-size="12" fill="#FCEE0A">BACKEND</text>
-  <g>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" x="20" y="78" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" x="76" y="78" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" x="132" y="78" width="32" height="32"/>
-    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" x="188" y="78" width="32" height="32"/>
-  </g>
-  <g font-size="10" fill="#8FA3B8" text-anchor="middle">
-    <text x="36" y="122">Java</text>
-    <text x="92" y="122">Spring</text>
-    <text x="148" y="122">Python</text>
-    <text x="204" y="122">FastAPI</text>
+  <g font-size="12" font-weight="bold" text-anchor="middle">
+    <rect x="20" y="78" width="76" height="28" rx="4" fill="#F89820"/><text x="58" y="97" fill="#3A2000">Java</text>
+    <rect x="104" y="78" width="86" height="28" rx="4" fill="#6DB33F"/><text x="147" y="97" fill="#0F2A08">Spring</text>
+    <rect x="198" y="78" width="86" height="28" rx="4" fill="#3776AB"/><text x="241" y="97" fill="#FFFFFF">Python</text>
+    <rect x="292" y="78" width="94" height="28" rx="4" fill="#009688"/><text x="339" y="97" fill="#FFFFFF">FastAPI</text>
   </g>
 
-  <text x="20" y="150" font-size="12" fill="#FCEE0A">INFRA &amp; TOOLS</text>
-  <g>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" x="20" y="158" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" x="76" y="158" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" x="132" y="158" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" x="188" y="158" width="32" height="32"/>
-  </g>
-  <g font-size="10" fill="#8FA3B8" text-anchor="middle">
-    <text x="36" y="202">MySQL</text>
-    <text x="92" y="202">Docker</text>
-    <text x="148" y="202">Git</text>
-    <text x="204" y="202">Linux</text>
+  <text x="20" y="140" font-size="12" fill="#FCEE0A">INFRA &amp; TOOLS</text>
+  <g font-size="12" font-weight="bold" text-anchor="middle">
+    <rect x="20" y="148" width="82" height="28" rx="4" fill="#4479A1"/><text x="61" y="167" fill="#FFFFFF">MySQL</text>
+    <rect x="110" y="148" width="86" height="28" rx="4" fill="#2496ED"/><text x="153" y="167" fill="#FFFFFF">Docker</text>
+    <rect x="204" y="148" width="64" height="28" rx="4" fill="#F05032"/><text x="236" y="167" fill="#FFFFFF">Git</text>
+    <rect x="276" y="148" width="70" height="28" rx="4" fill="#FCC624"/><text x="311" y="167" fill="#2A1E00">Linux</text>
   </g>
 
-  <text x="20" y="230" font-size="12" fill="#FCEE0A">FRONT-END &amp; EXPLORANDO</text>
-  <g>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" x="20" y="238" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="76" y="238" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" x="132" y="238" width="32" height="32"/>
-    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" x="188" y="238" width="32" height="32"/>
+  <text x="20" y="210" font-size="12" fill="#FCEE0A">FRONT-END &amp; EXPLORANDO</text>
+  <g font-size="12" font-weight="bold" text-anchor="middle">
+    <rect x="20" y="218" width="74" height="28" rx="4" fill="#61DAFB"/><text x="57" y="237" fill="#0A2A33">React</text>
+    <rect x="102" y="218" width="66" height="28" rx="4" fill="#F7DF1E"/><text x="135" y="237" fill="#332B00">JS</text>
+    <rect x="176" y="218" width="82" height="28" rx="4" fill="#7F52FF"/><text x="217" y="237" fill="#FFFFFF">Kotlin</text>
+    <rect x="266" y="218" width="60" height="28" rx="4" fill="#00ADD8"/><text x="296" y="237" fill="#00323D">Go</text>
   </g>
-  <g font-size="10" fill="#8FA3B8" text-anchor="middle">
-    <text x="36" y="282">React</text>
-    <text x="92" y="282">JS</text>
-    <text x="148" y="282">Kotlin</text>
-    <text x="204" y="282">Go</text>
+
+  <text x="20" y="280" font-size="12" fill="#FCEE0A">EM APRENDIZADO</text>
+  <g font-size="12" font-weight="bold" text-anchor="middle">
+    <rect x="20" y="288" width="70" height="28" rx="4" fill="#00599C"/><text x="55" y="307" fill="#FFFFFF">C++</text>
   </g>
 </svg>
