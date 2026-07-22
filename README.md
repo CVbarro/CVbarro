@@ -69,8 +69,8 @@ Repositórios ativos, experimentos e APIs em construção.
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVbarro&theme=github_dark" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CVbarro&theme=github_dark" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=CVbarro&hide_border=true&background=0A1420&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=D6DEE6&dates=6E7681" width="48%"/>
 
 <br/><br/>
 
