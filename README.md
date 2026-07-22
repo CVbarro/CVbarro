@@ -64,11 +64,11 @@ Repositórios ativos, experimentos e APIs em construção.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&icon_color=00D9FF" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&icon_color=00D9FF" width="45%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&chart_color=00D9FF" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CVbarro&theme=github_dark&bg_color=0A1420&title_color=00D9FF&text_color=D6DEE6&border_color=12395A&chart_color=00D9FF" width="45%"/>
 
 </div>
 
